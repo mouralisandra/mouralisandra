@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<!--
-**mouralisandra/mouralisandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-👋 Hi there, I'm Sandra Mourali!
+✨ Hi there, I'm Sandra Mourali! ✨
 
 👩‍🎓 I'm a 21-year-old third-year software engineering student at INSAT, and I'm incredibly passionate about Machine Learning and Deep Learning.
 
@@ -15,4 +12,4 @@
 🚀 So if you're looking for a dedicated and enthusiastic team member who's always up for a coding challenge, feel free to reach out and connect with me!
 
 👩‍💻 Let's build something awesome together!
--->
+
