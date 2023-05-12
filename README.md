@@ -1,9 +1,3 @@
-### ✨ Welcome to my cozy little corner of GitHub! ✨
-
-🌸 I'm Sandra Mourali, a 21-year-old software engineering student in my 3rd year at INSAT. 🌸
-
-🍃🐝 My passions lie in the world of Machine Learning and Deep Learning. 🐝🍃
-
 ## My Skill Set
 
 ### Machine Learning and Deep Learning:
