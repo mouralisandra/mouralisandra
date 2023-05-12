@@ -10,6 +10,13 @@
 
 🌻 I'm always looking for ways to improve my skills and knowledge, so feel free to reach out and connect with me! 🌻
 
+<p align="center">
+  <h1>Machine and Deep Learning </h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Tensorflow,pandas,jupyter,python,numpy,R" />
+  </a>
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=mouralisandra&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mouralisandra&hide=css,scss,html&theme=tokyonight)](https://github.com/mouralisandra/github-readme-stats)
 
