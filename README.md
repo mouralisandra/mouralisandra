@@ -13,9 +13,11 @@
 <p align="center">
   <h1>Machine and Deep Learning </h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Tensorflow,pandas,jupyter,python,numpy,R" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pandas,jupyter,python,numpy,R" />
   </a>
 </p>
+
+![My Skills](https://skillicons.dev/icons?i=tensorflow,pandas,jupyter,python,numpy,R)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=mouralisandra&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mouralisandra&hide=css,scss,html&theme=tokyonight)](https://github.com/mouralisandra/github-readme-stats)
