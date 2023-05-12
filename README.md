@@ -17,7 +17,6 @@
   </a>
 </p>
 
-<div className="row my-4  ">
                     <div className="row my-4  ">
                         <div className="col">
                         <i class="devicon-c-plain colored"></i>
