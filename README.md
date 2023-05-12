@@ -11,6 +11,6 @@
 🌻 I'm always looking for ways to improve my skills and knowledge, so feel free to reach out and connect with me! 🌻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=mouralisandra&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mouralisandra&hide=jcss,scss,html&theme=tokyonight)](https://github.com/mouralisandra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mouralisandra&hide=css,php,html&theme=tokyonight)](https://github.com/mouralisandra/github-readme-stats)
 
 
