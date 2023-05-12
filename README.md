@@ -17,8 +17,47 @@
   </a>
 </p>
 
-![My Skills](https://skillicons.dev/icons?i=tensorflow,pandas,jupyter,python,numpy,R)
-
+<div className="row my-4  ">
+                    <div className="row my-4  ">
+                        <div className="col">
+                        <i class="devicon-c-plain colored"></i>
+                        <i class="devicon-cplusplus-plain colored"></i>
+                        <i class="devicon-csharp-plain colored"></i>
+                        <i class="devicon-java-plain colored"></i>
+                        <i class="devicon-linux-plain colored"></i>
+                        <i class="devicon-blender-original colored"></i>
+                           
+                        </div>
+                    </div>
+                    <div className="row my-4  ">
+                        <div className="col">
+                        <i class="devicon-python-plain colored"></i>
+                        <i class="devicon-tensorflow-original colored"></i>
+                        <i class="devicon-numpy-plain colored"></i>
+                        <i class="devicon-pandas-plain colored"></i>
+                        <i class="devicon-r-plain colored"></i>
+                        <i class="devicon-opencv-plain colored"></i>
+                        </div>
+                    </div>
+                        <div className="col">
+                        <i class="devicon-nestjs-plain colored"></i>
+                        <i class="devicon-react-plain colored"></i>
+                        <i class="devicon-threejs-original colored"></i>
+                        <i class="devicon-dot-net-plain colored"></i>
+                        <i class="devicon-symfony-plain colored"></i>
+                        <i class="devicon-bash-plain colored"></i>
+                        
+                        </div>
+                    </div>
+                    <div className="row my-4  ">
+                        <div className="col">
+                       
+                            <i class="devicon-php-plain colored" title="PHP"></i>
+                            <i class="devicon-mongodb-plain colored"></i>
+                            <i class="devicon-wordpress-plain colored"></i>
+                            <i class="devicon-mysql-plain colored-wordmark colored" title="MySQL"></i>
+                        </div>
+                    </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=mouralisandra&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mouralisandra&hide=css,scss,html&theme=tokyonight)](https://github.com/mouralisandra/github-readme-stats)
 
