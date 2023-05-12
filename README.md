@@ -9,5 +9,6 @@
 🌼 On GitHub, you'll find a mix of my personal and academic projects including some of my favorite machine learning and web development projects. 🌼
 
 🌻 I'm always looking for ways to improve my skills and knowledge, so feel free to reach out and connect with me! 🌻
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouralisandra)](https://github.com/mouralisandra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouralisandra&count_private=true&show_icons=true&theme=tokyonight)
 
