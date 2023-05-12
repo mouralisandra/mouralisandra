@@ -1,4 +1,4 @@
-## My Skill Set
+## I am Sandra Mourali a 21-year-old Software Engineering student at INSAT
 
 ### Machine Learning and Deep Learning:
 <p>
