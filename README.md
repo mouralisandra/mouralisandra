@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" alt="Keras">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV">
   <img src="https://img.shields.io/badge/Pandas-FF7F17?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas">
-  <img src="https://img.shields.io/badge/R%20Bi-F2C811?logo=R&logoColor=black&style=for-the-badge" alt="R">
+  <img src="https://img.shields.io/badge/R-F2C811?logo=R&logoColor=black&style=for-the-badge" alt="R">
   <img src="https://img.shields.io/badge/Matplotlib-E97627?logo=matplotlib&logoColor=white&style=for-the-badge" alt="Matplotlib">
 </p>
 
