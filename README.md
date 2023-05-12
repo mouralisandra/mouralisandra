@@ -34,6 +34,5 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
   <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge" alt="Neo4j">
-</p>
   <img src="https://img.shields.io/badge/Blender-FCC624?logo=blender&logoColor=black&style=for-the-badge" alt="Blender">
 </p>
