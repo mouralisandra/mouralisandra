@@ -22,9 +22,7 @@
   <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge" alt="Symfony">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
   <img src="https://img.shields.io/badge/Three.js-000000?logo=three-dot-js&logoColor=white&style=for-the-badge" alt="Three.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge" alt="Neo4j">
-</p>
+
 
 ### Competitive Programming & Miscellaneous: 
 <p>
@@ -34,5 +32,8 @@
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="C#">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" alt="RabbitMQ">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge" alt="Neo4j">
+</p>
   <img src="https://img.shields.io/badge/Blender-FCC624?logo=blender&logoColor=black&style=for-the-badge" alt="Blender">
 </p>
