@@ -1,4 +1,4 @@
-## 22-year-old Software Engineering student at INSAT
+## 4rth Year Software Engineering student at INSAT
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow">
