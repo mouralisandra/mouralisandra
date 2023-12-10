@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Angular-E0234E?logo=angular&logoColor=white&style=for-the-badge" alt="Angular">
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" alt=".NET">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
 </p>
 <p>
