@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge" alt="SciPy">
     <img src="https://img.shields.io/badge/langchain-000000?logo=langchain&logoColor=white&style=for-the-badge" alt="Langchain">
 </p>
+
 * As a software Engineering student, I am also familiar with :
 <p style="float: right;">
     <img src="https://img.shields.io/badge/Angular-E0234E?logo=angular&logoColor=white&style=for-the-badge" alt="Angular">
