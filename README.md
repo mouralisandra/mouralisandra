@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/langchain-000000?logo=langchain&logoColor=white&style=for-the-badge" alt="Langchain">
 </p>
 * As a software Engineering student, I am also familiar with :
-</p>
 <p style="float: right;">
     <img src="https://img.shields.io/badge/Angular-E0234E?logo=angular&logoColor=white&style=for-the-badge" alt="Angular">
     <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS">
