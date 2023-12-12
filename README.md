@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" alt="RabbitMQ">
 </p>
 
-![image](https://github.com/mouralisandra/mouralisandra/raw/main/coffee.gif)
+<img src="https://github.com/mouralisandra/mouralisandra/raw/main/coffee.gif" width="200" height="200">
+
 
 
 
