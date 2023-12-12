@@ -12,19 +12,15 @@
     <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas">
     <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy">
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge" alt="SciPy">
-    <img src="https://img.shields.io/badge/Torch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="Torch">
     <img src="https://img.shields.io/badge/langchain-000000?logo=langchain&logoColor=white&style=for-the-badge" alt="Langchain">
-    <img src="https://img.shields.io/badge/NLTK-41A48D?logo=nltk&logoColor=white&style=for-the-badge" alt="NLTK">
 </p>
-    
+* As a software Engineering student, I am also familiar with :
 </p>
 <p style="float: right;">
     <img src="https://img.shields.io/badge/Angular-E0234E?logo=angular&logoColor=white&style=for-the-badge" alt="Angular">
     <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS">
     <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" alt=".NET">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
-</p>
-<p>
     <img src="https://img.shields.io/badge/Unity-5C3EE8?logo=unity&logoColor=white&style=for-the-badge" alt="Unity">
     <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="C#">
     <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java">
