@@ -1,5 +1,5 @@
 ## 4rth Year Software Engineering student at INSAT
-
+`AI is my 🍞&🧈, AI is my 🍵 !`
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" alt="Keras">
