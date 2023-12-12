@@ -17,3 +17,6 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" alt="RabbitMQ">
 </p>
+
+![image](https://github.com/mouralisandra/mouralisandra/assets/98917826/97e358fb-3f6f-4be7-86db-ce0b9156b593)
+
