@@ -24,5 +24,6 @@
     <img src="https://img.shields.io/badge/Unity-5C3EE8?logo=unity&logoColor=white&style=for-the-badge" alt="Unity">
     <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="C#">
     <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java">
+    <img src="https://img.shields.io/badge/MongoDB-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="MongoDB">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" alt="RabbitMQ">
 </p>
