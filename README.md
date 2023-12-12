@@ -1,9 +1,8 @@
 <div align="center">
-<h2>4rth Year Software Engineering student at INSAT</h2>
-<h3>AI is my 🍞&🧈, AI is my 🍵 !</h3>
+<h3>4rth Year Software Engineering student at INSAT</h3>
+<h4>AI is my 🍞&🧈, AI is my 🍵 !</h4>
 <p style="float: right;">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" alt="Keras">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV">
     <img src="https://img.shields.io/badge/Angular-E0234E?logo=angular&logoColor=white&style=for-the-badge" alt="Angular">
     <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS">
