@@ -1,4 +1,5 @@
 ## 4rth Year Software Engineering student at INSAT
+<div align="center">
 `AI is my 🍞&🧈, AI is my 🍵 !`
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow">
@@ -19,7 +20,7 @@
 </p>
 
 <img src="https://github.com/mouralisandra/mouralisandra/raw/main/coffee.gif" width="200" height="200">
-
+</div>
 
 
 
