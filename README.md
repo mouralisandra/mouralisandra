@@ -1,6 +1,6 @@
-## 4rth Year Software Engineering student at INSAT
 <div align="center">
-`AI is my 🍞&🧈, AI is my 🍵 !`
+<h2>4rth Year Software Engineering student at INSAT</h2>
+<h3>AI is my 🍞&🧈, AI is my 🍵 !</h3>
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" alt="Keras">
