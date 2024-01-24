@@ -7,7 +7,7 @@
 #### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge) ![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 #### Game Development:
-![Unity](https://img.shields.io/badge/Unity-3498DB?logo=unity&logoColor=white&style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge) ![Blender](https://img.shields.io/badge/Unity-CC2927?logo=Blender&logoColor=white&style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-3498DB?logo=unity&logoColor=white&style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge) ![Blender](https://img.shields.io/badge/Blender-CC2927?logo=Blender&logoColor=white&style=for-the-badge)
 ### Mobile Development:
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
 
