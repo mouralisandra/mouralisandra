@@ -1,1 +1,1 @@
-Softawre engineering student at `INSAT`.
+Software engineering student at `INSAT`.
